@@ -1,1 +1,8 @@
 hello git
+thinks we did :
+- git init
+- git remote add origin https://....git
+- git status
+- git add example.txt
+- git commint -m 'massage'
+- git push origin main
